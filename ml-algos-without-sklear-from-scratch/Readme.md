@@ -1,4 +1,4 @@
-### Below you will find information on how the assignments were give, and in this directory, you will find all the solutions for each of the tasks below.
+### Here you will find information on how the assignments were give, and in this directory, you will find all the solutions for each of the tasks below.
 
 ### Assignment: linear_regression_manual
 Solve a linear regression problem using the algorithm from the lecture
