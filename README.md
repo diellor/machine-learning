@@ -1,3 +1,3 @@
-## Machine learning algorithms from scratch (without sklearn). For bettter understanding, open the readme file in the ml-from-scratch repo in some other md openers
+### ml-algos-without-sklear-from-scratch, contains the most popular machine learning algorithms implemented from scratch without using any library that's related with ml (no sklearn, or any other ml specific library).
 
-## Some analysis from my Data mining course, this repo will be updated. 
+### Other folders contain a detailed analysis of various tasks using real-world datasets where I perform data analysis and use ml algorithms for predictions.
